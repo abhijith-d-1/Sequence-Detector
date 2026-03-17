@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Tue Mar 17 14:20:42 2026
+[*]
+[dumpfile] "D:\PROJECTS\Sequence_detector.vcd"
+[dumpfile_mtime] "Tue Mar 17 14:20:03 2026"
+[dumpfile_size] 1356
+[savefile] "D:\PROJECTS\Sequence_detector.gtkw"
+[timestart] 0
+[size] 1536 793
+[pos] -165 -165
+*-5.487798 22 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Sequence_detector_tb.
+[sst_width] 197
+[signals_width] 190
+[sst_expanded] 1
+[sst_vpaned_height] 320
+@28
+Sequence_detector_tb.clk
+Sequence_detector_tb.rst
+Sequence_detector_tb.data_in
+Sequence_detector_tb.dut_1011.state[1:0]
+Sequence_detector_tb.dut_1011.next_state[1:0]
+@29
+Sequence_detector_tb.dut_1011.detect[1:0]
+[pattern_trace] 1
+[pattern_trace] 0
